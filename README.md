@@ -1,2 +1,2 @@
 # anime-login
-# signup with authentication, signin and logout for styleflow
+## signup with authentication, signin and logout for styleflow
